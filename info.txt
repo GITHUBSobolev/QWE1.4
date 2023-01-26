@@ -1,0 +1,93 @@
+👾 QWE
+
+🔗ЯП: #Python
+🔅Ядро: #QWE4
+🌀ДБ: #sqlite
+
+📝МОДУЛИ: 
+    ├ #Aiogram
+    ├ #SQlite3
+    ├ #threading
+    ├ #bs4 ( BeautifulSoup )
+    ├ #pycoingecko ( CoinGeckoAPI )
+    ├ #asyncio
+    ├ #subprocess
+    └ #sys
+
+🎒Функции: 
+     ├ хороший datebase 
+     ├ качественый команды
+     ├ качественый дизайн
+     └ качествный скрипт
+     
+     
+🛖Популярные команды: 
+     ├ Баланс / Профиль / Помощь
+     ├ Эфириум система / Семья / Админ меню
+     ├ Шахта / Ферма / Топ / Депозит
+     └ Выдать / Донат / Промокоды
+     
+     📓Файл:
+     ├ Photo [папка]
+     ├ Datebase [папка]
+         ├ db.py [9 кб]
+         └ users [База данных]
+     ├ app.py [12 KB]
+     ├ backgroud.py [1 КB]
+     ├ commands.py [603 KB]
+     ├ config.py [1 КВ]
+     ├ imports [4 KB]
+     ├ inline.py [4 KB]
+     ├ main.py [1 KB]
+     └ utils.py [10 KB]
+
+
+
+
+
+
+
+
+
+👾 QWE
+
+🔗ЯП: #Python
+🔅Ядро: #QWE4
+🌀ДБ: #sqlite
+
+📝МОДУЛИ: 
+    ├ #Aiogram
+    ├ #SQlite3
+    ├ #threading
+    ├ #bs4 ( BeautifulSoup )
+    ├ #pycoingecko ( CoinGeckoAPI )
+    ├ #asyncio
+    ├ #subprocess
+    └ #sys
+
+🎒Функции: 
+     ├ хороший datebase 
+     ├ качественый команды
+     ├ качественый дизайн
+     └ качествный скрипт
+     
+     
+🛖Популярные команды: 
+     ├ Баланс / Профиль / Помощь
+     ├ Эфириум система / Семья / Админ меню
+     ├ Шахта / Ферма / Топ / Депозит
+     └ Выдать / Донат / Промокоды
+     
+     📓Файл:
+     ├ Photo [папка]
+     ├ Datebase [папка]
+         ├ db.py [9 кб]
+         └ users [База данных]
+     ├ app.py [12 KB]
+     ├ backgroud.py [1 КB]
+     ├ commands.py [603 KB]
+     ├ config.py [1 КВ]
+     ├ imports [4 KB]
+     ├ inline.py [4 KB]
+     ├ main.py [1 KB]
+     └ utils.py [10 KB]

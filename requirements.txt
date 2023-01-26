@@ -1,0 +1,7 @@
+colorama
+aiogram
+bs4
+requests
+pycoingecko
+numexpr
+beautifulsoup4
